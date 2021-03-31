@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Atividade 2</string>
+    <string name="login_title">Login</string>
+    <string name="user">Usuario</string>
+    <string name="pass">Senha</string>
+    <string name="login">Entrar</string>
+
+    <string name="facul">UniRitter</string>
+    <string name="start">Começar</string>
+    <string name="exit">Desconectar</string>
+    <string name="splash">Sair</string>
+    <string name="welcome">Bem-vindo!</string>
+    <string name="acessar">Acessar:</string>
+
+    <string name="todo">TODOS</string>
+    <string name="posts">POSTS</string>
+    <string name="albums">ALBUMS</string>
+    <string name="comments">COMMENTS</string>
+
+</resources>
